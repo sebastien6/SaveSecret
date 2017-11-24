@@ -1,6 +1,6 @@
 # SaveSecret
 
-Well this is my first code on github. Hope people will not jump at my throat but this is a code to save a password encrypted with an RSA key for a script like python to use it when running as a crontab for example.
+Well this is my first code on github. This is a code to save a password encrypted with an RSA key for a script like python to use it when running as a crontab for example.
 I’m new to go and also to coding well there is probably a lot of room for improvement in my Go code.
 
 I build main component of the code with google go and i’m compiling it as a c-share library for other languages to use it. I build a python library to make use of it and a sample python script using it with parmiko.
